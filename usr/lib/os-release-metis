@@ -1,0 +1,7 @@
+NAME=Metis Linux
+ID=metis
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;37"
+HOME_URL="https://metislinux.org/"
+LOGO=metis-logo

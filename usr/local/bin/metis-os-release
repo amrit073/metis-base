@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp /usr/local/share/metis/release/os-release-metis /usr/lib/os-release
+sudo cp /usr/local/share/metis/release/os-release-metis /usr/lib/os-release-metis
