@@ -1,0 +1,3 @@
+#########Worldwide################
+Server = https://pkgs.metislinux.org/$arch
+#Server = https://metislinux.iyamnabeen.xyz/$arch
